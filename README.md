@@ -1,7 +1,7 @@
 # FreeCodeCamp-Data-Analysis
 
-This proyects are part of FreeCodeCamp's Data Analyzer with Python Certification Tour
-I didnt feel free of making a repositorie for each because the only exercise proyectos.
+This proyects are part of FreeCodeCamp's Data Analyzer with Python Certification Tour,
+I didnt feel free of making a repositorie for each because they are only exercise proyectos.
 
 Repl link for each proyect
 mean-variance-standard-deviation-calculator info:
