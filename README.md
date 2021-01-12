@@ -9,3 +9,6 @@ https://repl.it/@furro33/boilerplate-mean-variance-standard-deviation-calculator
 
 Demographic Data Analyzer
 https://repl.it/github/freeCodeCamp/boilerplate-demographic-data-analyzer
+
+Medical Data Visualizer
+https://repl.it/@furro33/boilerplate-medical-data-visualizer-2#README.md
