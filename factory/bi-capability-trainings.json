@@ -1,0 +1,9 @@
+{
+	"name": "bi-capability-trainings",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39ee33a4-b82c-466d-805f-98a1fa9bb95e",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
